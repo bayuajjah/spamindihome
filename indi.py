@@ -19,8 +19,8 @@ os.system("figlet Spam |lolcat")
 os.system("figlet -f small Indihome |lolcat")
 banner = """
 \033[1;94m___________________________________________
-\033[1;97m CODED  :\033[1;92m FAHMIAPZ
-\033[1;97m YOUTUBE:\033[1;92m APMZCHANNEL
+\033[1;97m CODED  :\033[1;92m SENDY
+\033[1;97m YOUTUBE:\033[1;92m SENDYAJJAH
 \033[1;97m GITHUB :\033[1;92m https://github.com/BangDanz
 \033[1;94m___________________________________________
 """
